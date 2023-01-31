@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imdb-clone-app/static/css/main.743c588f.css",
+    "main.js": "/imdb-clone-app/static/js/main.8d817652.js",
+    "index.html": "/imdb-clone-app/index.html",
+    "main.743c588f.css.map": "/imdb-clone-app/static/css/main.743c588f.css.map",
+    "main.8d817652.js.map": "/imdb-clone-app/static/js/main.8d817652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743c588f.css",
+    "static/js/main.8d817652.js"
+  ]
+}
